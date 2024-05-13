@@ -10,3 +10,15 @@ C:\ESTUDO\CRUDAngularWebAPI\CRUDAPI.EFCore\CRUDAPI.EFCore.Domain\obj\Debug\net8.
 C:\ESTUDO\CRUDAngularWebAPI\CRUDAPI.EFCore\CRUDAPI.EFCore.Domain\obj\Debug\net8.0\refint\CRUDAPI.EFCore.Domain.dll
 C:\ESTUDO\CRUDAngularWebAPI\CRUDAPI.EFCore\CRUDAPI.EFCore.Domain\obj\Debug\net8.0\CRUDAPI.EFCore.Domain.pdb
 C:\ESTUDO\CRUDAngularWebAPI\CRUDAPI.EFCore\CRUDAPI.EFCore.Domain\obj\Debug\net8.0\ref\CRUDAPI.EFCore.Domain.dll
+C:\ESTUDO\CRUDWebAPI\CRUDAPI.EFCore\CRUDAPI.EFCore.Domain\bin\Debug\net8.0\CRUDAPI.EFCore.Domain.deps.json
+C:\ESTUDO\CRUDWebAPI\CRUDAPI.EFCore\CRUDAPI.EFCore.Domain\bin\Debug\net8.0\CRUDAPI.EFCore.Domain.dll
+C:\ESTUDO\CRUDWebAPI\CRUDAPI.EFCore\CRUDAPI.EFCore.Domain\bin\Debug\net8.0\CRUDAPI.EFCore.Domain.pdb
+C:\ESTUDO\CRUDWebAPI\CRUDAPI.EFCore\CRUDAPI.EFCore.Domain\obj\Debug\net8.0\CRUDAPI.EFCore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ESTUDO\CRUDWebAPI\CRUDAPI.EFCore\CRUDAPI.EFCore.Domain\obj\Debug\net8.0\CRUDAPI.EFCore.Domain.AssemblyInfoInputs.cache
+C:\ESTUDO\CRUDWebAPI\CRUDAPI.EFCore\CRUDAPI.EFCore.Domain\obj\Debug\net8.0\CRUDAPI.EFCore.Domain.AssemblyInfo.cs
+C:\ESTUDO\CRUDWebAPI\CRUDAPI.EFCore\CRUDAPI.EFCore.Domain\obj\Debug\net8.0\CRUDAPI.EFCore.Domain.csproj.CoreCompileInputs.cache
+C:\ESTUDO\CRUDWebAPI\CRUDAPI.EFCore\CRUDAPI.EFCore.Domain\obj\Debug\net8.0\CRUDAPI.EFCore.Domain.sourcelink.json
+C:\ESTUDO\CRUDWebAPI\CRUDAPI.EFCore\CRUDAPI.EFCore.Domain\obj\Debug\net8.0\CRUDAPI.EFCore.Domain.dll
+C:\ESTUDO\CRUDWebAPI\CRUDAPI.EFCore\CRUDAPI.EFCore.Domain\obj\Debug\net8.0\refint\CRUDAPI.EFCore.Domain.dll
+C:\ESTUDO\CRUDWebAPI\CRUDAPI.EFCore\CRUDAPI.EFCore.Domain\obj\Debug\net8.0\CRUDAPI.EFCore.Domain.pdb
+C:\ESTUDO\CRUDWebAPI\CRUDAPI.EFCore\CRUDAPI.EFCore.Domain\obj\Debug\net8.0\ref\CRUDAPI.EFCore.Domain.dll

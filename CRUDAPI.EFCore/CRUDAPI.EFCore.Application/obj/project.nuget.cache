@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xBDIX5+SoA6yuV3j/jqSGKh1+v+8np/7aJBm+vUVkEhTsKXgoDcjs2CfSoGsxdePB6aJ2amFTFfT08u+eCzMHg==",
+  "dgSpecHash": "rJJYM8gHjoJWoOqRGYmStlXLCABw3Rqn+Ai1wxtlZODTNxaquEjUxXqApQevd1KOZu2WPHdZyxCQmmuyynx97w==",
   "success": true,
-  "projectFilePath": "C:\\ESTUDO\\CRUDAngularWebAPI\\CRUDAPI.EFCore\\CRUDAPI.EFCore.Application\\CRUDAPI.EFCore.Application.csproj",
+  "projectFilePath": "C:\\ESTUDO\\CRUDWebAPI\\CRUDAPI.EFCore\\CRUDAPI.EFCore.Application\\CRUDAPI.EFCore.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vasco\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.4\\microsoft.entityframeworkcore.8.0.4.nupkg.sha512",
     "C:\\Users\\vasco\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.4\\microsoft.entityframeworkcore.abstractions.8.0.4.nupkg.sha512",

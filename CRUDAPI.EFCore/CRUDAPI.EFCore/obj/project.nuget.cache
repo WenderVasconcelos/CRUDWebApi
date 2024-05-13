@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OHCXd3gDx1RWSJuRgdCmBGnRsD/NvUy6i5CYZAA66twuvIFlEFFQQdZurJH5Wracmvq1CLlO1SM95/3Up3CMAQ==",
+  "dgSpecHash": "URdd1acWh4B2BDSJ64dnxV9Dl6R3k2ETQx/NiofhCH6IJpS4yp6V8J4rboOGuGYb2qUf7QtD0U7nM8hkzNmcKQ==",
   "success": true,
-  "projectFilePath": "C:\\ESTUDO\\CRUDAngularWebAPI\\CRUDAPI.EFCore\\CRUDAPI.EFCore\\CRUDAPI.EFCore.csproj",
+  "projectFilePath": "C:\\ESTUDO\\CRUDWebAPI\\CRUDAPI.EFCore\\CRUDAPI.EFCore\\CRUDAPI.EFCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vasco\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\vasco\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

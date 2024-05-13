@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ESTUDO\\CRUDAngularWebAPI\\CRUDAPI.EFCore\\CRUDAPI.EFCore.Domain\\CRUDAPI.EFCore.Domain.csproj",
+      "projectUniqueName": "C:\\ESTUDO\\CRUDWebAPI\\CRUDAPI.EFCore\\CRUDAPI.EFCore.Domain\\CRUDAPI.EFCore.Domain.csproj",
       "projectName": "CRUDAPI.EFCore.Domain",
-      "projectPath": "C:\\ESTUDO\\CRUDAngularWebAPI\\CRUDAPI.EFCore\\CRUDAPI.EFCore.Domain\\CRUDAPI.EFCore.Domain.csproj",
+      "projectPath": "C:\\ESTUDO\\CRUDWebAPI\\CRUDAPI.EFCore\\CRUDAPI.EFCore.Domain\\CRUDAPI.EFCore.Domain.csproj",
       "packagesPath": "C:\\Users\\vasco\\.nuget\\packages\\",
-      "outputPath": "C:\\ESTUDO\\CRUDAngularWebAPI\\CRUDAPI.EFCore\\CRUDAPI.EFCore.Domain\\obj\\",
+      "outputPath": "C:\\ESTUDO\\CRUDWebAPI\\CRUDAPI.EFCore\\CRUDAPI.EFCore.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vasco\\AppData\\Roaming\\NuGet\\NuGet.Config",

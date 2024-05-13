@@ -4765,11 +4765,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ESTUDO\\CRUDAngularWebAPI\\CRUDAPI.EFCore\\CRUDAPI.EFCore\\CRUDAPI.EFCore.csproj",
+      "projectUniqueName": "C:\\ESTUDO\\CRUDWebAPI\\CRUDAPI.EFCore\\CRUDAPI.EFCore\\CRUDAPI.EFCore.csproj",
       "projectName": "CRUDAPI.EFCore",
-      "projectPath": "C:\\ESTUDO\\CRUDAngularWebAPI\\CRUDAPI.EFCore\\CRUDAPI.EFCore\\CRUDAPI.EFCore.csproj",
+      "projectPath": "C:\\ESTUDO\\CRUDWebAPI\\CRUDAPI.EFCore\\CRUDAPI.EFCore\\CRUDAPI.EFCore.csproj",
       "packagesPath": "C:\\Users\\vasco\\.nuget\\packages\\",
-      "outputPath": "C:\\ESTUDO\\CRUDAngularWebAPI\\CRUDAPI.EFCore\\CRUDAPI.EFCore\\obj\\",
+      "outputPath": "C:\\ESTUDO\\CRUDWebAPI\\CRUDAPI.EFCore\\CRUDAPI.EFCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vasco\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4786,8 +4786,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\ESTUDO\\CRUDAngularWebAPI\\CRUDAPI.EFCore\\CRUDAPI.EFCore.Infrastructure\\CRUDAPI.EFCore.Infrastructure.csproj": {
-              "projectPath": "C:\\ESTUDO\\CRUDAngularWebAPI\\CRUDAPI.EFCore\\CRUDAPI.EFCore.Infrastructure\\CRUDAPI.EFCore.Infrastructure.csproj"
+            "C:\\ESTUDO\\CRUDWebAPI\\CRUDAPI.EFCore\\CRUDAPI.EFCore.Infrastructure\\CRUDAPI.EFCore.Infrastructure.csproj": {
+              "projectPath": "C:\\ESTUDO\\CRUDWebAPI\\CRUDAPI.EFCore\\CRUDAPI.EFCore.Infrastructure\\CRUDAPI.EFCore.Infrastructure.csproj"
             }
           }
         }
