@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRUDAPI.EFCore.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff478ef4fb6764672ac82bafeb25559928a1c9c4")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRUDAPI.EFCore.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRUDAPI.EFCore.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
