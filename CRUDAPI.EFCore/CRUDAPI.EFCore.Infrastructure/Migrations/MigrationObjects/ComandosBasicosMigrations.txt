@@ -1,0 +1,19 @@
+COMANDOS ESSENCIAIS PARA VERSIONAMENTO MIGRATIONS ASP NET CORE 8:
+
+--Adiciona uma migration nova com as modificações realizadas.
+Add-Migration V1 
+
+--Remove a migration pendente de update.
+Remove-Migration
+
+--Realiza o update no Banco de Dados.
+Update-Database
+
+--Gera um script SQL da migração especificada.
+Script-Migration
+
+--Lista todas as migrações aplicadas no banco de dados.
+Get-Migration
+
+--Remove a migração especificada, mesmo se ela já tiver sido aplicada ao banco de dados.
+Remove-Migration -Force

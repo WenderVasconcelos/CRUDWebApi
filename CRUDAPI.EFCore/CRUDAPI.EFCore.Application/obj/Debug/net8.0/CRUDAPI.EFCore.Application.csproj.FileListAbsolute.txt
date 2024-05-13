@@ -1,0 +1,16 @@
+C:\ESTUDO\CRUDAngularWebAPI\CRUDAPI.EFCore\CRUDAPI.EFCore.Application\bin\Debug\net8.0\CRUDAPI.EFCore.Application.deps.json
+C:\ESTUDO\CRUDAngularWebAPI\CRUDAPI.EFCore\CRUDAPI.EFCore.Application\bin\Debug\net8.0\CRUDAPI.EFCore.Application.dll
+C:\ESTUDO\CRUDAngularWebAPI\CRUDAPI.EFCore\CRUDAPI.EFCore.Application\bin\Debug\net8.0\CRUDAPI.EFCore.Application.pdb
+C:\ESTUDO\CRUDAngularWebAPI\CRUDAPI.EFCore\CRUDAPI.EFCore.Application\bin\Debug\net8.0\CRUDAPI.EFCore.Domain.dll
+C:\ESTUDO\CRUDAngularWebAPI\CRUDAPI.EFCore\CRUDAPI.EFCore.Application\bin\Debug\net8.0\CRUDAPI.EFCore.Domain.pdb
+C:\ESTUDO\CRUDAngularWebAPI\CRUDAPI.EFCore\CRUDAPI.EFCore.Application\obj\Debug\net8.0\CRUDAPI.EFCore.Application.csproj.AssemblyReference.cache
+C:\ESTUDO\CRUDAngularWebAPI\CRUDAPI.EFCore\CRUDAPI.EFCore.Application\obj\Debug\net8.0\CRUDAPI.EFCore.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\ESTUDO\CRUDAngularWebAPI\CRUDAPI.EFCore\CRUDAPI.EFCore.Application\obj\Debug\net8.0\CRUDAPI.EFCore.Application.AssemblyInfoInputs.cache
+C:\ESTUDO\CRUDAngularWebAPI\CRUDAPI.EFCore\CRUDAPI.EFCore.Application\obj\Debug\net8.0\CRUDAPI.EFCore.Application.AssemblyInfo.cs
+C:\ESTUDO\CRUDAngularWebAPI\CRUDAPI.EFCore\CRUDAPI.EFCore.Application\obj\Debug\net8.0\CRUDAPI.EFCore.Application.csproj.CoreCompileInputs.cache
+C:\ESTUDO\CRUDAngularWebAPI\CRUDAPI.EFCore\CRUDAPI.EFCore.Application\obj\Debug\net8.0\CRUDAPI.EFCore.Application.sourcelink.json
+C:\ESTUDO\CRUDAngularWebAPI\CRUDAPI.EFCore\CRUDAPI.EFCore.Application\obj\Debug\net8.0\CRUDAPI..9CF0E8E2.Up2Date
+C:\ESTUDO\CRUDAngularWebAPI\CRUDAPI.EFCore\CRUDAPI.EFCore.Application\obj\Debug\net8.0\CRUDAPI.EFCore.Application.dll
+C:\ESTUDO\CRUDAngularWebAPI\CRUDAPI.EFCore\CRUDAPI.EFCore.Application\obj\Debug\net8.0\refint\CRUDAPI.EFCore.Application.dll
+C:\ESTUDO\CRUDAngularWebAPI\CRUDAPI.EFCore\CRUDAPI.EFCore.Application\obj\Debug\net8.0\CRUDAPI.EFCore.Application.pdb
+C:\ESTUDO\CRUDAngularWebAPI\CRUDAPI.EFCore\CRUDAPI.EFCore.Application\obj\Debug\net8.0\ref\CRUDAPI.EFCore.Application.dll
