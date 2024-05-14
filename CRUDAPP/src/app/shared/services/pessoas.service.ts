@@ -2,6 +2,8 @@ import {Injectable} from '@angular/core';
 import {HttpClient, HttpHeaders} from "@angular/common/http";
 import {Observable} from "rxjs";
 import {PessoaCommand} from "../command/pessoa";
+import {environment} from "../../../environments/environment";
+import {PessoasComponent} from "../../components/pessoas/pessoas.component";
 
 const httpOptions = {
   headers: new HttpHeaders({
@@ -9,33 +11,18 @@ const httpOptions = {
   })
 };
 
-
 @Injectable({
   providedIn: 'root'
 })
 export class PessoasService {
-  url = 'http://localhost:7006/api/pessoas';
 
-  constructor(private http: HttpClient) {
-  }
-
-  listarPessoas(): Observable<PessoaCommand[]> {
-    return this.http.get<PessoaCommand[]>(this.url);
-  }
-
-  pegarPeloId(dado: PessoaCommand): Observable<PessoaCommand> {
-    return this.http.get<PessoaCommand>(this.url + '/' + dado.pessoaId);
-  }
+  constructor(private http: HttpClient) {  }
 
   salvarPessoa(pessoa: PessoaCommand): Observable<any> {
-    return this.http.post(this.url, pessoa, httpOptions);
+    return this.http.post(environment.apiUrl + 'pessoas', pessoa, httpOptions);
   }
 
-  atualizarPessoa(pessoa: PessoaCommand): Observable<any> {
-    return this.http.put(this.url + '/' + pessoa.pessoaId, pessoa, httpOptions);
-  }
-
-  deletarPessoa(pessoa: PessoaCommand): Observable<any> {
-    return this.http.delete(this.url + '/' + pessoa.pessoaId);
+  teste() {
+    return this.http.get("https://localhost:7006/api/pessoas");
   }
 }
