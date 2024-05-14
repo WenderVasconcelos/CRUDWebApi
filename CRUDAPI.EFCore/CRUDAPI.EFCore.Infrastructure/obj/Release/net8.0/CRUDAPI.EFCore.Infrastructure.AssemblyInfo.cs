@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRUDAPI.EFCore.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3687d6b2a21bd1dcb76cbddbbe5fc2e76bb89b2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f38493ecce57dad42433024b2be85819b41997cf")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRUDAPI.EFCore.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRUDAPI.EFCore.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

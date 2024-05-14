@@ -1,8 +1,8 @@
-export class Pessoa {
-    pessoaId: number = 0;
-    nome: string = '';
-    sobrenome: string = '';
-    idade: number = 0;
-    profissao: string = '';
-    altura: number = 0;
+export class PessoaCommand {
+    pessoaId: number;
+    nome: string;
+    sobrenome: string;
+    idade: number;
+    profissao: string;
+    altura: number;
 }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "SnvrkuDsirxlWAce/GW32zHyxeYESKh15jKPc00Fz8XrE6rpqr6/qZi3wWag9lbAq0/iwN0jut4CDhvCciLdhw==",
+  "dgSpecHash": "vWLDXQOLIIYsDZab2ocPiY+uoZDTNMAdFzCq4TOhA/tFaeZzb2dawBg0NYRvswkOtgYxRVf9XOk4OgSxJAsrBg==",
   "success": true,
   "projectFilePath": "C:\\ESTUDO\\CRUDWebAPI\\CRUDAPI.EFCore\\CRUDAPI.EFCore.Infrastructure\\CRUDAPI.EFCore.Infrastructure.csproj",
   "expectedPackageFiles": [
