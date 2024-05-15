@@ -1,6 +1,6 @@
 import {Component, Input} from '@angular/core';
 import {FormControl, FormGroup, Validators} from "@angular/forms";
-import {PessoaCommand} from "../../shared/command/pessoa";
+import {Pessoa} from "../../shared/command/pessoa";
 import {PessoasService} from "../../shared/services/pessoas.service";
 
 @Component({
@@ -11,12 +11,23 @@ import {PessoasService} from "../../shared/services/pessoas.service";
 export class PessoasComponent {
   formulario: any;
   tituloFormulario: string;
+  pessoas: Pessoa[];
+  visibilidadeTabela: boolean = true;
+  visibilidadeFormulario: boolean = false;
 
   constructor(private pessoasService: PessoasService) {
   }
 
   ngOnInit(): void {
-    this.tituloFormulario = 'Nova Pessoas';
+    this.pegarTodos();
+
+  }
+
+  ExibirFormularioCadastro(): void {
+    this.visibilidadeTabela = false;
+    this.visibilidadeFormulario = true;
+
+    this.tituloFormulario = 'Nova Pessoa';
     this.formulario = new FormGroup({
       nome: new FormControl(null, [Validators.required]),
       sobrenome: new FormControl(null, [Validators.required]),
@@ -26,31 +37,43 @@ export class PessoasComponent {
     });
   }
 
-  EnviarFormulario():void {
-    const pessoa: PessoaCommand = this.formulario.value;
+  EnviarFormulario(): void {
+    const pessoa: Pessoa = this.formulario.value;
 
     this.pessoasService
       .salvarPessoa(pessoa).subscribe({
-        next: (resultado) => {
-          alert('Pessoa salva com sucesso!');
-          this.formulario.reset();
-        },
-        error: (error) => {
-          alert('Erro ao salvar pessoa');
-        }
-
-    })
-  }
-
-  teste() {
-    this.pessoasService.teste().subscribe({
       next: (resultado) => {
-        return console.log(resultado);
+        this.visibilidadeFormulario = false;
+        this.visibilidadeTabela = true;
+        alert('Pessoa salva com sucesso!');
+        this.pessoasService.getPessoas().subscribe({
+          next: (dados) => {
+            this.pessoas = dados;
+          },
+          error: (error) => {
+            alert('Erro ao pegar pessoas');
+          }
+        });
       },
       error: (error) => {
-        return console.log(error);
+        alert('Erro ao salvar pessoa');
       }
     })
   }
 
+  pegarTodos(): void {
+    this.pessoasService.getPessoas().subscribe({
+      next: (resultado) => {
+        this.pessoas = resultado;
+      },
+      error: (error) => {
+        alert('Erro ao pegar pessoas');
+      }
+    })
+  }
+
+  voltar() {
+    this.visibilidadeTabela = true;
+    this.visibilidadeFormulario = false;
+  }
 }
