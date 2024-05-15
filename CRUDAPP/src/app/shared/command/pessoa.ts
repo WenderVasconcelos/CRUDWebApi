@@ -1,4 +1,4 @@
-export class PessoaCommand {
+export class Pessoa {
     pessoaId: number;
     nome: string;
     sobrenome: string;
